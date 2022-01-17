@@ -17,7 +17,7 @@ function AgeMessage({ accountSettingsUrl }) {
           />
           <FormattedMessage
             id="profile.age.details"
-            defaultMessage="To share your profile with other edX learners, you must confirm that you are over the age of 13."
+            defaultMessage="To share your profile with other LP+ADOPT learners, you must confirm that you are over the age of 13."
             description="error message"
             tagName="p"
           />
